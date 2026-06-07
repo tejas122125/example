@@ -12,3 +12,4 @@ func (s *helloServer) SayHello(ctx context.Context, re *pb.NoParam) (*pb.HelloRe
 	}, nil
 
 }
+
