@@ -29,4 +29,3 @@ message NameList{
 message MessageList{
     repeated string messages = 1;
 }
-
