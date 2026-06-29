@@ -46,3 +46,4 @@ func callBidirectionalStream(client pb.GreetServiceClient, names *pb.NameList) {
 	log.Printf("Bidirectional streaming finished")
 
 }
+
