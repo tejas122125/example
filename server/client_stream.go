@@ -23,4 +23,3 @@ func (s *helloServer) SayHelloClientStreaming(stream pb.GreetService_SayHelloCli
 	}
 
 }
-
