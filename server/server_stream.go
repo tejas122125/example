@@ -20,4 +20,3 @@ func (s *helloServer) SayHelloServerStreaming(req *pb.NameList, stream pb.GreetS
 	}
 	return nil
 }
-
