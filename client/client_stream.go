@@ -33,3 +33,4 @@ func callSayHelloClientStream(client pb.GreetServiceClient, names *pb.NameList) 
 	log.Printf("%v", res.Messages)
 
 }
+
